@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "removing binary.."
 rm calculator
 echo "compiling binary.."
